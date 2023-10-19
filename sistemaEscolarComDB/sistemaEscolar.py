@@ -49,7 +49,7 @@ class Aluno:
 
 # Classe Professor (semelhante ao Aluno)
 class Professor:
-    def __init(self, nome):
+    def __init__(self, nome):
         self.nome = nome
 
     def salvar(self):
